@@ -1,6 +1,6 @@
-# Tab Manager
+# Tab Cleaner
 
-Chrome Extension to help manage your tabs
+Chrome Extension to help cleanse your tabs
 
 ## Features
 
